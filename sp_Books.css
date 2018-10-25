@@ -1,0 +1,44 @@
+.navbar{
+    position:fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#topBrand {
+    color:white;
+}
+
+#topMenu {
+    padding-left: 540px;
+}
+
+#homeBtn {
+    padding-left: 40px;
+}
+
+#topMenu li {
+    padding-right: 15px;
+}
+
+#intro {
+    padding-top: 80px;
+}
+
+.row {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-size: 300%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+}

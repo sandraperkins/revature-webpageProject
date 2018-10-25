@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+}
+
+.navbar{
+    position:fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#topBrand {
+    color:white;
+}
+
+#topMenu {
+    padding-left: 540px;
+}
+
+#homeBtn {
+    padding-left: 40px;
+}
+
+#topMenu li {
+    padding-right: 15px;
+}
+
+#mainBg {
+    background-image: url("http://wallpapers.ae/wp-content/uploads/2015/09/Outer-Space-Wallpaper.jpg");
+    height: 700px;
+    width: 100%;
+    text-align: center;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#mainBg h1 {
+    line-height: 350px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 50px;
+}
+
+#boldMain {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    line-height: 50px;
+}
+
+#qAuthor {
+    color: white;
+    font-weight: bold;
+}
+
+.row {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-size: 300%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+}
+
+#bottomSection {
+    width: 100%;
+    background-color: #FFC3D3;
+    text-align: center;
+}
+
+
+#bottomSection h1 {
+    padding-top: 80px;
+    font-size: 35px;
+}
+
+#bottomSection p {
+    font-size: 25px;
+}
