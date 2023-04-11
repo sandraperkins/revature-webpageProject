@@ -25,7 +25,7 @@ body {
 }
 
 #mainBg {
-    background-image: url("http://wallpapers.ae/wp-content/uploads/2015/09/Outer-Space-Wallpaper.jpg");
+    background-image: url("https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80");
     height: 700px;
     width: 100%;
     text-align: center;
@@ -40,6 +40,7 @@ body {
     line-height: 350px;
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 50px;
+    text-shadow: 2px 2px black
 }
 
 #boldMain {
@@ -48,11 +49,13 @@ body {
     font-weight: bold;
     color: white;
     line-height: 50px;
+    text-shadow: 2px 2px black;
 }
 
 #qAuthor {
     color: white;
     font-weight: bold;
+    text-shadow: 2px 2px black;
 }
 
 .row {
@@ -76,7 +79,7 @@ body {
 
 #bottomSection {
     width: 100%;
-    background-color: #FFC3D3;
+    background-color: #AE7499;
     text-align: center;
 }
 
